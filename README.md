@@ -1,0 +1,1 @@
+C++ Implementation of Blind Folded Solving Algorithm of Rubik's Cube
